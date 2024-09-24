@@ -1,0 +1,24 @@
+Datset collection:
+I have collected the alziemers dataset from kaggle.com 
+Link to dataset:- 'https://www.kaggle.com/discussions/general/233667'
+
+
+
+
+
+Dataset Alzheimer:
+
+-> Alzheimer’s is a progressive disease, where dementia symptoms gradually worsen over a number of years. In its early stages, memory loss is mild, but with late-stage Alzheimer’s, individuals lose the ability to carry on a conversation and respond to their environment.
+
+-> Although current Alzheimer’s treatments cannot stop Alzheimer’s from progressing, they can temporarily slow the worsening of dementia symptoms and improve quality of life for those with Alzheimer’s and their caregivers. Image Processing plays an important role in the early detection of Alzheimers.
+
+->Symptoms:
+	1.Early
+	2.Difficulty remembering recent events
+	3.Progressive
+	4.Memory loss, confusion, disorientation, difficulty planning, speech and language problems, personality changes, hallucinations, delusions, low mood or anxiety Other.
+
+->Trouble handling money, difficulty completing tasks, decreased judgment, misplacing things, movement difficulties, problems with sense of smell, wandering, repeating questions, taking longer to complete daily tasks
+
+->Alzheimer's disease is caused by a combination of age-related changes in the brain, along with genetic, health, and lifestyle factors. The risk of developing Alzheimer's increases with age, but younger people may also get it. The risk is somewhat higher if a first-degree relative has the disease. 
+There is no cure for Alzheimer's disease, but treatments can help reduce cognitive and functional decline. Other treatments can temporarily slow the worsening of dementia symptoms. 
